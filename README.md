@@ -3,3 +3,5 @@
 <h3>Contains the final project done in Code in Place 2021 which was hosted by Stanford University</h3>
 <p>Project Description: Program stores the data entered by the user into a JSON file, so once when the user terminates the program and runs it again all he can access all the contacts he saved on the last iteration of the program.</p>
 <p>Youtube Link explaing the program: https://youtu.be/HyoLnUPJjqE</p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=jayyymin18.codeinplace2021)
