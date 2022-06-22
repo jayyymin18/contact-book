@@ -1,4 +1,4 @@
-<h1><a href="https://codeinplace.stanford.edu/" target="_blank"><img align="center" alt="CODE IN PLACE LOGO" title="CODE IN PLACE WEBSITE" width="40px" height="40px"src="https://codeinplace.stanford.edu/static/media/logo.9f422de7.gif" /></a>Code in PLace 2021 Final Project - Contact Book</h1>
+<h1><a href="https://codeinplace.stanford.edu/" target="_blank"><img align="center" alt="CODE IN PLACE LOGO" title="CODE IN PLACE WEBSITE" width="40px" height="40px"src="https://codeinplace.stanford.edu/static/media/logo.9f422de7.gif" /></a>Contact Book-Code in PLace 2021 Final Project</h1>
 
 <h3>Contains the final project done in Code in Place 2021 which was hosted by Stanford University</h3>
 <p>Project Description: Program stores the data entered by the user into a JSON file, so once when the user terminates the program and runs it again all he can access all the contacts he saved on the last iteration of the program.</p>
