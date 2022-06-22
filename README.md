@@ -2,8 +2,8 @@
 
 <h3>Contains the final project done in Code in Place 2021 which was hosted by Stanford University</h3>
 <p>Project Description: Program stores the data entered by the user into a JSON file, so once when the user terminates the program and runs it again all he can access all the contacts he saved on the last iteration of the program.</p>
-<p>Youtube Link explaing the program: <a href="https://youtu.be/HyoLnUPJjqE" target="_blank">Link</a></p>
-<p>Hosted Link: https://codeinplace.stanford.edu/2021/showcase/306/</p>
+<h4><p>Youtube Link explaing the program: <a href="https://youtu.be/HyoLnUPJjqE" target="_blank">Link</a></p></h4>
+<h4><p>Hosted Link: <a href="https://codeinplace.stanford.edu/2021/showcase/306/" target="_blank">Link</a></p> </h4>
 
 <p><a href="https://codeinplace.stanford.edu/2021/showcase/306/"><img align="center" alt="CODE IN PLACE LOGO" title="CODE IN PLACE SHOWCASE" width="400px"src="https://codeinplace.stanford.edu/static/media/logo.89244802.png" /></a></p>
 
